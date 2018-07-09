@@ -140,9 +140,8 @@ def train_nn(sess, epochs, batch_size, get_batches_fn, train_op, cross_entropy_l
     :param out_dir:
     """
     # TODO: Implement function
+    sess.run(tf.global_variables_initializer())
 
-    L2_REGL2_REG = 1e-5
-    STDEV = 1e-5
     KEEP_PROB = 0.5
     LEARNING_RATE = 1e-4
     for e in range(epochs):
