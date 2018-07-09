@@ -61,7 +61,7 @@ def layers(vgg_layer3_out, vgg_layer4_out, vgg_layer7_out, num_classes):
     """
     # TODO: Implement function
     STDEV = 1e-3
-    L2_REG = 1e-3
+    L2_REG = 1e-5
     # layer3_out_scaled = tf.multiply(vgg_layer3_out, 0.0001, name='layer3_out_scaled')
     # layer4_out_scaled = tf.multiply(vgg_layer4_out, 0.01, name='layer4_out_scaled')
     layer7_conv1x1 = tf.layers.conv2d(vgg_layer7_out, num_classes, 1, 1, padding='same',
