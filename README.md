@@ -34,13 +34,13 @@ Loss per batch is below 0.200 after one epoch, and below 0.80 after ten epochs. 
 
 ### Samples
 Below are a few sample images from the output of the fully convolutional network, with the segmentation class overlaid upon the original image in green.
-![img1]()
-![img2]()
-![img3]()
-![img4]()
-![img5]()
-![img6]()
-![img7]()
-![img8]()
-![img9]()
-![img10]()
+![img1](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/um_000020.png?raw=true)
+![img2](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/umm_000030.png?raw=true)
+![img3](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/umm_000040.png?raw=true)
+![img4](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/umm_000050.png?raw=true)
+![img5](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/umm_000090.png?raw=true)
+![img6](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/uu_000010.png?raw=true)
+![img7](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/uu_000040.png?raw=true)
+![img8](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/uu_000070.png?raw=true)
+![img9](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/uu_000080.png?raw=true)
+![img10](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/uu_000090.png?raw=true)
