@@ -34,6 +34,7 @@ Loss per batch is below 0.200 after one epoch, and below 0.80 after ten epochs. 
 
 ### Samples
 Below are a few sample images from the output of the fully convolutional network, with the segmentation class overlaid upon the original image in green.
+
 ![img1](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/um_000020.png?raw=true)
 ![img2](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/umm_000030.png?raw=true)
 ![img3](https://github.com/hpnhxxwn/CarND-Semantic-Segmentation/blob/master/umm_000040.png?raw=true)
